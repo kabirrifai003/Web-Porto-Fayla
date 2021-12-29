@@ -1,20 +1,23 @@
 .jumbotron {
     padding-top: 6rem;
-    background-color: #e2edff;
+    background-color: #DCDCDC;
   }
   #Education {
-    background-color: #e2edff;
+    background-color: #DCDCDC;
   }
   
   #Skills {
-    background-color: #e2edff;
+    background-color: #DCDCDC;
   }
   #Projects {
-    background-color: #e2edff;
+    background-color: #DCDCDC;
   }
 
   section {
     padding-top: 5rem;
+  }
+  body {
+    background-color: #F5F5F5;
   }
   
   .intro div.row {
